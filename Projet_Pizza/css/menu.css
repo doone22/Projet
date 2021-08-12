@@ -1,0 +1,183 @@
+.body{
+	
+	margin: 0;
+	padding: 0;
+	
+	background-image: url("images/bonjour.jpg");
+}
+.header{
+	background-color: #f73720;
+		padding: 15px;}
+
+header {height: 50;
+margin: 0;
+background-color: whitesmoke;
+font-style: italic;
+
+
+
+}
+nav ul li {
+	list-style: none;
+	display: inline-block;
+	padding: 6px 13px;
+	margin-left: 20px;
+	cursor: pointer;
+	letter-spacing:  0.2rem ;
+
+	margin: 0 8px;
+	
+	text-decoration: none;
+}
+
+.menu li a  {
+		
+		padding: 20;
+		text-decoration: none;
+	color: white;
+	margin: 0;
+	
+
+
+			}
+	.header nav ul li a.active,
+	.header nav ul li a:hover{
+		background:white;
+		color: #9e64d1;
+		transition: 0,4s all ease-out;
+		border-radius: 10px
+
+
+	}
+			form {
+	padding: 20;
+	text-align: right;
+}
+h1 {
+	
+
+	width : auto;
+	margin-left : 10px;
+	margin-right : 10px;
+
+}
+body{
+	background-image: url("bonjour.jpg") ;
+
+	background-size: cover;
+	background-position: center;
+}
+
+ footer{
+	
+	background-color: #f73720;
+	padding-top: 60px;
+	padding-bottom:20px;
+}
+
+footer .pieds
+{
+	display : inline-block;
+	width:auto;
+	margin-left:100px;
+	
+}
+.pieds p
+{
+	display:inline-block;
+	margin-left:10px;
+}
+.pied
+{
+	padding-left : 50px;
+}
+.pied h1
+{
+	font-size: 0.7em;
+	margin-top:0px;
+}
+.pieds h6
+{
+	margin-top:0px;
+	margin-bottom:2px;
+}
+
+.prix {
+background-color:#f73720;
+}
+.maison1{ 
+ width :33%;
+	display:inline-block;
+}
+.maison2{
+	width :33%;
+	display:inline-block;
+}
+.maison3{
+	width :33%;
+	display:inline-block;
+}
+.info{
+	width :45%;
+	display:inline-block;
+}
+.infor{
+	width :50%;
+	display:inline-block;
+	background-color: whitesmoke;
+
+}
+textarea{
+	border-radius: 10px;
+	border-style:double;
+	border-color:#554de8;
+
+}
+.p1 {
+	width :45%;
+	display:inline-block;
+	margin-left:85px;
+}
+.p2{
+	width :45%;
+	display:inline-block;
+}
+.p3{
+	width :45%;
+	display:inline-block;
+	margin-left:85px;
+}
+.p4{
+	width :45%;
+	display:inline-block;
+}
+
+.p7{
+	width :45%;
+	display:inline-block;
+	margin-left:85px;
+}
+.p8{
+	width :45%;
+	display:inline-block;
+
+}
+.p9{
+	width :45%;
+	display:inline-block;
+	margin-left:85px;
+}
+.p10{
+	width :45%;
+	display:inline-block;
+}
+
+.p11{
+	width :45%;
+	display:inline-block;
+	margin-left:85px;
+}
+.p12{
+	width :45%;
+	display:inline-block;
+}

@@ -1,0 +1,22 @@
+
+#nom {
+	background-color: gainsboro;
+	border-style: dashed;
+	border-color: #f73720;
+	border-radius: 15px;
+}
+
+
+ form
+{
+	
+	margin-right: 35%;
+	margin-left: 25%;
+
+}
+
+#contact {
+	position: center;
+	background-color: gray;
+	
+}

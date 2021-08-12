@@ -1,0 +1,78 @@
+ 
+
+ .h { height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: blue;
+}
+
+body {
+	
+	margin: 0;
+	padding: 0;
+	
+}
+.header {  background-color: red;
+height: 80;
+margin: 10;
+}
+nav ul li {
+	list-style: none;
+	display: inline-block;
+	padding: 10;
+	margin-right: 10px;
+	cursor: pointer;
+
+	}
+ul li a {
+	color: whitesmoke;
+	letter-spacing:  0.3rem ;
+	text-decoration: underline;
+
+
+
+}
+.menu li a  {
+	float:left;
+	padding: 35;
+
+	text-decoration: none;
+	margin-right: 15px;
+
+}
+form {
+	padding: 35;
+	text-align: left;
+	background-color:darkred;
+	border-radius: 20px;
+	margin: 8px 20 px;
+}
+input [type="search"] {
+	font-size: 17;
+	background-color:darkred;
+	border: none;
+}
+header h1 {
+	font-size: 55 px;
+}
+footer {
+	background-color:black;
+}
+.prix {
+background-color: red
+}
+.prix {
+	font-size: 10 px;
+	color: whitesmoke;
+}
+ {
+	font-size: 10 px;
+	color: whitesmoke;
+}
+
+.Premier {
+	
+	font-size: 10 px;
+	color: whitesmoke;
+}
